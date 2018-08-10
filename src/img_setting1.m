@@ -1,0 +1,6 @@
+function img_setting1
+h_a=gca;
+set(h_a,'YTick',[],'YTickLabel',{''},...
+    'XTick',[],'XTickLabel',{''},...
+    'DataAspectRatio',[1 1 1])
+end
