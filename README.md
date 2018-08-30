@@ -15,5 +15,5 @@ This function generates T2star or T2 maps and save the results in the folder 're
 ### **Step 2: Outline region of interest**
 ![Outline region of interest](https://github.com/HelingZ7/MyImagingLab_T2map_dicom/blob/master/docs/ROI.JPG?raw=true)
 
-### **T2maps are automatically saved in five folders in the results folder**
-![Images are automatically saved in five folders in the results folder](https://github.com/HelingZ7/MyImagingLab_T2map_dicom/blob/master/docs/sample_t2map.JPG?raw=true)
+### **T2maps are automatically saved in the results folder**
+![T2maps are automatically saved in the results folder](https://github.com/HelingZ7/MyImagingLab_T2map_dicom/blob/master/docs/sample_t2map.JPG?raw=true)
